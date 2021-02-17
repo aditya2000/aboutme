@@ -1,0 +1,75 @@
+.body {
+    font-family: 'EB Garamond', serif;
+    font-size: large;
+}
+
+.header {
+    background-color: rgb(184, 42, 42);
+    color: rgb(248, 248, 237);
+    margin: -8px;
+    padding: 12px;
+    text-align: center;
+}
+
+.navbar a{
+    color:rgb(248, 248, 237);
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.navbar a:hover {
+    color:rgb(50, 99, 144);
+}
+
+.about {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+
+.aboutText {
+    margin-top: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.classes {
+    
+    margin: 10px;
+    padding: 5px;
+}
+
+.classes h2 {
+    text-align: center;
+}
+
+.classesList {
+    margin-top: 20px;
+    margin-left: 120px;
+
+}
+
+.hobbies {
+    margin: 10px;
+    padding: 5px;
+}
+
+.hobbies h2 {
+    text-align: center;
+}
+
+.hobbiesList {
+    margin-top: 20px;
+    margin-left: 120px;
+
+}
+
+.footer {
+    text-align: center;
+    margin:-8px;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: rgb(19, 19, 19);
+    color: rgb(248, 248, 237);
+    
+}
